@@ -1,0 +1,97 @@
+body{
+    background-image: url("../imagenes/wallpaper2.jpg");
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    font-size: 140px;
+    color: #ffcc00;
+    font-family: 'Creepster', cursive;
+    position:relative;
+    top: 1px;
+}
+ul{
+    text-align: center;
+    font-size: 50px;
+    font-family: "Impact";
+    position:relative;
+    top: 1px;
+}
+li{
+    display: inline;
+    margin: 2cm;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: #ffcc00;
+}
+
+article{
+    font-family: 'Spicy Rice', cursive;
+    color: orangered;
+    font-size: 30px;
+    text-align: justify;
+}
+article h2{
+    text-align: center;
+    color: red;
+}
+
+#casa{
+    float: right;
+    height: 500px;
+    width: 700px;
+    margin-right: 3cm;
+    margin-top: 1cm;
+    margin-left: 1cm;
+}
+#coleccionista{
+    float: left;
+    height: 350px;
+    width: 550px;
+    margin-right: 1cm;
+    margin-top: 0,5cm;
+    margin-left: 3cm;
+}
+#santos{
+    float: right;
+    height: 500px;
+    width: 700px;
+    margin-right: 3cm;
+    margin-top: 1cm;
+    margin-left: 1cm;
+}
+
+#contenido1{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+}
+#contenido2{
+    margin-right: 100px;
+    margin-top: 50px;
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+}
+#contenido3{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+}
+article p{
+    margin: 5%;
+}

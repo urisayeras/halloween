@@ -1,0 +1,30 @@
+body{
+    background-image: url("./imagenes/wallpaper.jpeg");
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    font-size: 140px;
+    color: #cc6600;
+    font-family: 'Creepster', cursive;
+    position:relative;
+    top: 1px;
+}
+ul{
+    text-align: center;
+    font-size: 50px;
+    font-family: "Impact";
+    position:relative;
+    top: 1px;
+}
+li{
+    display: inline;
+    margin: 2cm;
+}
+a{
+    text-decoration: none;
+    color: #cc6600;
+}
+a:hover{
+    color: white;
+}
